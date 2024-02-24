@@ -1,0 +1,60 @@
+Epoch: 1
+100%|██████████| 1036/1036 [07:27<00:00,  1.34it/s, loss=10.4]
+==> Saving checkpoint
+Epoch: 2
+100%|██████████| 1036/1036 [06:20<00:00,  1.33it/s, loss=8.6]
+==> Saving checkpoint
+Epoch: 3
+100%|██████████| 1036/1036 [06:26<00:00,  1.33it/s, loss=8.03]
+==> Saving checkpoint
+Epoch: 4
+100%|██████████| 1036/1036 [06:25<00:00,  1.33it/s, loss=7.50]
+==> Saving checkpoint
+Epoch: 5
+100%|██████████| 1036/1036 [06:28<00:00,  1.33it/s, loss=7.1]
+==> Saving checkpoint
+Epoch: 6
+100%|██████████| 1036/1036 [06:28<00:00,  1.33it/s, loss=6.74]
+==> Saving checkpoint
+Epoch: 7
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=6.35]
+==> Saving checkpoint
+Epoch: 8
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=6.01]
+==> Saving checkpoint
+Epoch: 9
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=5.45]
+==> Saving checkpoint
+Epoch: 10
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=5.2]
+==> Saving checkpoint
+Epoch: 11
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=5.11]
+==> Saving checkpoint
+Epoch: 12
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=4.99]
+==> Saving checkpoint
+Epoch: 13
+100%|██████████| 1036/1036 [06:30<00:00,  1.33it/s, loss=4.7]
+==> Saving checkpoint
+Epoch: 14
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=4.43]
+==> Saving checkpoint
+Epoch: 15
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=4.28]
+==> Saving checkpoint
+Epoch: 16
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=4.03]
+==> Saving checkpoint
+Epoch: 17
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=3.8]
+==> Saving checkpoint
+Epoch: 18
+100%|██████████| 1036/1036 [06:30<00:00,  1.33it/s, loss=3.61]
+==> Saving checkpoint
+Epoch: 19
+100%|██████████| 1036/1036 [06:30<00:00,  1.33it/s, loss=3.1]
+==> Saving checkpoint
+Epoch: 20
+100%|██████████| 1036/1036 [06:29<00:00,  1.33it/s, loss=2.8]
+==> Saving checkpoint
